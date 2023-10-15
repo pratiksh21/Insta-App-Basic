@@ -130,10 +130,8 @@ http://localhost:8080/swagger-ui/index.html#/
 
 If you have any questions, issues, or need further assistance related to the  Model-Based CRUD Operations Portal project, feel free to contact us. We are here to help!
 
-- **Raj Anand**
-  - Email: rajanandxxxx@example.com
-  - LinkedIn: [Raj Anand's LinkedIn Profile]()
-  - GitHub: [Raj Anand's GitHub Profile]()
+- **Pratik Sharma**
+- Email: thepratiksharma@gmail.com
 
 
 Please don't hesitate to reach out if you have any inquiries or need assistance with any aspect of the project. Your feedback and questions are important to us.
